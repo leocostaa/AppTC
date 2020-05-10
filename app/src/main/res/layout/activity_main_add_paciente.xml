@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="380dp"
+        android:layout_height="33dp"
         android:text="Adicionar Paciente"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
