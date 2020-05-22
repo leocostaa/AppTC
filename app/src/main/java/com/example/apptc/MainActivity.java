@@ -41,5 +41,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(MainActivity);
 
     }
+    public void StartTratamento ( View view){
+        Intent MainActivity = new Intent(this,MainActivityTratamento.class);
+        startActivity(MainActivity);
+
+    }
 
 }
